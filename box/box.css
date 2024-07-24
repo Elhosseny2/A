@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+}
+.one {
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    border: solid gray 5px;
+    padding: 1rem;
+    margin: 60px;
+    box-sizing: border-box;
+}
+.tow {
+    text-align: center;
+    font-size: 50px;
+    border: solid gray 5px;
+    padding: 1rem;
+    margin: 60px;
+}
+.tree {
+    text-align: center;
+    font-size: 50px;
+    border: solid gray 5px;
+    padding: 1rem;
+    margin: 60px;
+}
+.four {
+    text-align: center;
+    font-size: 50px;
+    border: solid gray 5px;
+    padding: 1rem;
+    margin: 60px;
+}
